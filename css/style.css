@@ -1,0 +1,167 @@
+/* &display=swap */
+
+@import url(null.css);
+
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap");
+
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	max-width: 813px;
+	margin: 0 auto;
+}
+
+.block {
+	margin: 0px 0px 32px 0px;
+}
+
+.title {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1e212c;
+}
+
+.time {
+	margin: 0px 0px 40px 0px;
+}
+.year {
+	display: inline-block;
+	background: url("../img/Calendar.svg") 0px 5px no-repeat;
+	padding: 0px 0px 0px 24px;
+	margin-right: 24px;
+	font-size: 16px;
+	line-height: 160%;
+	color: #787a80;
+}
+.min {
+	display: inline-block;
+	background: url("../img/Clock.svg") 0px 5px no-repeat;
+	padding: 0px 0px 0px 24px;
+	font-size: 16px;
+	line-height: 160%;
+	color: #787a80;
+}
+
+.image {
+	margin: 0px 0px 63px 0px;
+}
+
+.block__text {
+	margin: 0px 0px 35px 0px;
+}
+.text {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+}
+
+.block__text2 {
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	margin: 0px 0px 51px 0px;
+}
+.text2 {
+	margin: 0px 0px 36px 0px;
+}
+.text3 {
+}
+
+.block__bold {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1e212c;
+	padding: 0px 0px 0px 60px;
+	margin: 0px 0px 40px 0px;
+	background: url("../img/braces.svg") 0px 0px no-repeat;
+}
+.text_bold {
+	width: 752px;
+}
+
+.article {
+	margin: 0px 0px 35px 0px;
+}
+
+.article__text {
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+
+.item {
+	margin: 0px 0px 24px 0px;
+}
+ul.list {
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+.list-item {
+	background: url("../img/check.svg") 0px 6px no-repeat;
+	padding: 0px 0px 0px 31px;
+	margin: 0px 0px 4px 0px;
+}
+
+.foot__text {
+	margin: 0px 0px 60px 0px;
+}
+.end__text {
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+/* =============== Второй макет)) ================= */
+.page {
+	margin: 0px 0px 40px 0px;
+}
+.title__page {
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 150%;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	color: #1e212c;
+}
+.title__page2 {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1e212c;
+}
+.paragraph {
+	max-width: 390px;
+	margin: 0px 0px 48px 0px;
+}
+.point {
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+.point-list {
+	background: url("../img/check.svg") 0px 5px no-repeat;
+	padding: 0px 0px 0px 32px;
+	margin: 0px 0px 12px 0px;
+}
+
+.button {
+	margin: 0px 0px 40px 0px;
+}
+
+.moreaboutus {
+	display: inline-block;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 44px;
+	text-align: center;
+	letter-spacing: 0.5px;
+	color: #ffffff;
+	padding: 0px 32px;
+	width: 161px;
+	height: 44px;
+	background: linear-gradient(55.95deg, #ff3f3a 0%, #f75e05 100%);
+	border-radius: 4px;
+}
